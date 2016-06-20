@@ -1,0 +1,2 @@
+C:\Users\Kal\Documents\Kal's Backup\Emergency\Ketris\Ketris\obj\Debug\Ketris.exe
+C:\Users\Kal\Documents\Kal's Backup\Emergency\Ketris\Ketris\obj\Debug\Ketris.pdb

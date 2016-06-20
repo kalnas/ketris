@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Ketris">
+</Property><Property Name="Solution File" Value="C:\Users\Kal\Documents\Kal's Backup\Emergency\Ketris\Ketris.sln">
+</Property><Property Name="Date" Value="Friday, January 08, 2010">
+</Property><Property Name="Time" Value="22:24 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Ketris" Source="Ketris\Ketris.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Ketris" Source="Ketris\Ketris.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Ketris.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Ketris.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Ketris" Source="Ketris\Ketris.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
